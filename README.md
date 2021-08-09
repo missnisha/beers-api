@@ -1,4 +1,4 @@
-[![beer-api](https://github.com/missnisha/beers-api/blob/master/punk-api-img.JPG)]
+![beer-api](https://github.com/missnisha/beers-api/blob/master/punk-api-img.JPG)
 
 # Beers Api: Project made with JS, Html and CSS
 Simple project to fetch and render Api data from punkapi, the Brewdog company Api where you can fetch all the beers in their catalog.
