@@ -2,7 +2,7 @@
 Simple project to fetch and render Api data from punkapi, the Brewdog company Api where you can fetch all the beers in their catalog.
 Working with JavaScript classes, promises, logic separation.
 
-The project includes pagination and product detail page by id.
+The project includes image slider, pagination, product catalog and product detail page by id.
 
 
 
